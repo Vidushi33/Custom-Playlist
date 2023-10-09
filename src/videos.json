@@ -1,0 +1,53 @@
+[
+    {
+        "SNo" : 1,
+        "title": "Summer Flower Blossom with Butterfly",
+        "url": "/Videos/video1.mp4" 
+    },
+    {
+        "SNo" : 2,
+        "title": "A Rainy Evening",
+        "url": "/Videos/video2.mp4"
+    },
+    {
+        "SNo" : 3,
+        "title": "Coffee - The Java Cafe",
+        "url": "/Videos/video3.mp4"
+    },
+    {
+        "SNo" : 4,
+        "title": "Funny Minions",
+        "url": "/Videos/video4.mp4"
+    },
+    {
+        "SNo" : 5,
+        "title": "Hand Drawn Animation",
+        "url": "/Videos/video5.mp4"
+    },
+    {
+        "SNo" : 6,
+        "title": "Mood Changer - 30 sec Animation",
+        "url": "/Videos/video6.mp4"
+    },
+    {
+        "SNo" : 7,
+        "title": "Romantic Couple Dance",
+        "url": "/Videos/video7.mp4"
+    },
+    {
+        "SNo" : 8,
+        "title": "Flowing Water",
+        "url": "/Videos/video8.mp4"
+    },
+    {
+        "SNo" : 9,
+        "title": "Energy Drink - Strawberry Cream",
+        "url": "/Videos/video9.mp4"
+    },
+    {
+        "SNo" : 10,
+        "title": "Pocket Tone-Up Sun Screen",
+        "url": "/Videos/video10.mp4"
+    }
+
+]
